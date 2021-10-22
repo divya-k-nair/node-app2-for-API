@@ -4,7 +4,7 @@
   "description": "this is a api read pgm",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
   },
   "author": "Divya",
   "license": "ISC",
